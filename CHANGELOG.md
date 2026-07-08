@@ -1,3 +1,8 @@
+## 0.25.0 (unreleased)
+
+- Updated LibTorch to 2.13.0
+- Dropped support for C++17
+
 ## 0.24.0 (2026-05-13)
 
 - Updated LibTorch to 2.12.0

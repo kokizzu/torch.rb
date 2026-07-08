@@ -8,7 +8,7 @@
 #include <rice/stl.hpp>
 
 static_assert(
-  TORCH_VERSION_MAJOR == 2 && TORCH_VERSION_MINOR == 12,
+  TORCH_VERSION_MAJOR == 2 && TORCH_VERSION_MINOR == 13,
   "Incompatible LibTorch version"
 );
 
